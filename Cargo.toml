@@ -1,0 +1,10 @@
+[package]
+name = "atsamd10d13am"
+version = "0.1.0"
+authors = ["Nebojsa Sabovic <nsabovic@gmail.com>"]
+
+[dependencies]
+cortex-m = "0.4.3"
+vcell = "0.1.0"
+bare-metal = "0.1.1"
+cortex-m-rt = "0.3.13"
